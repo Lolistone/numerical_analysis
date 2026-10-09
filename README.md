@@ -1,2 +1,3 @@
-# numerical_analysis
-Projects for a numerical analysis course. 
+# Numerical Analysis
+
+acá van a estar los tps xd
